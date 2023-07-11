@@ -1,0 +1,12 @@
+/*Estilos para niveles de tareas*/
+.urgent-task {
+    color: orange;
+}
+
+.blocking-task {
+    color: tomato;
+}
+
+.info-task {
+    color: green;
+}

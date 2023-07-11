@@ -1,0 +1,6 @@
+<div *ngIf="contacto">
+  <h1>Contacto: {{ id }}</h1>
+  <h2>Nombre: {{contacto | nombreCompleto}} </h2>
+  <h2>Email: {{ contacto.email }}</h2>
+  <a routerLink="/dashboard/contacts" [queryParams]="{ sexo: filtroPrevio }"> Back </a>
+</div>

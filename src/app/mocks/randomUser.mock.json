@@ -1,0 +1,48 @@
+
+{ 
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Alexis", "last": "Côté" },
+      "location": {
+        "street": { "number": 354, "name": "Concession Road 6" },
+        "city": "Armstrong",
+        "state": "Newfoundland and Labrador",
+        "country": "Canada",
+        "postcode": "L1H 6A7",
+        "coordinates": { "latitude": "-71.7734", "longitude": "145.5728" },
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "alexis.cote@example.com",
+      "login": {
+        "uuid": "03fb0505-d919-497c-8c1e-d199398c0ce8",
+        "username": "tinysnake160",
+        "password": "adrian",
+        "salt": "LhJLBUFW",
+        "md5": "4d78527da05fe893a9a21ced260d31f8",
+        "sha1": "9b05a5f315c5a9f8c9a9b3aa5eb7b060b6a6dbde",
+        "sha256": "de00a00cf60c41d002412dcf316492c87b606562abe8755cfb0e501d8d93dd55"
+      },
+      "dob": { "date": "1979-09-27T11:45:15.794Z", "age": 43 },
+      "registered": { "date": "2014-01-31T19:08:16.308Z", "age": 9 },
+      "phone": "P57 A79-5118",
+      "cell": "Z33 X23-1247",
+      "id": { "name": "SIN", "value": "225286046" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/23.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+      },
+      "nat": "CA"
+    }
+  ],
+  "info": {
+    "seed": "36644909785af872",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
